@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "title": {
+    "en": "xypshot's DSH Plugins",
+    "zh": "xypshot 的 DSH 插件"
+  },
+  "description": {
+    "en": "Plugins for DeepSeek Harness maintained by xypshot.",
+    "zh": "xypshot 维护的 DeepSeek Harness 插件合集。"
+  },
+  "metadata": {
+    "categories": {},
+    "labels": {},
+    "sortKeys": {}
+  },
+  "plugins": [
+    {
+      "name": "dsh-llm-quota-board",
+      "title": {
+        "en": "Quota Overview",
+        "zh": "额度总览"
+      },
+      "description": {
+        "en": "Quota overview for every provider and model deployed in Settings -> Models",
+        "zh": "查看设置 → 模型中已部署的全部供应商和模型的余额与额度。"
+      },
+      "icon": "https://raw.githubusercontent.com/xypshot/dsh-plugins/main/plugins/llm-quota-board/icon.svg",
+      "author": "xypshot",
+      "homepage": "https://github.com/xypshot/dsh-plugins",
+      "repository": {
+        "url": "https://github.com/xypshot/dsh-plugins/",
+        "directory": "plugins/llm-quota-board"
+      },
+      "metadata": {
+        "keywords": [
+          "quota",
+          "llm",
+          "models",
+          "额度",
+          "配额"
+        ],
+        "labels": [],
+        "sortKeys": {}
+      },
+      "versions": [
+        {
+          "version": "0.1.0",
+          "publishTimestamp": 1795188874,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/xypshot/dsh-plugins.git",
+            "commit": "3c383888d8e10cf335f6ce8ca2ff950a5e7c7e71",
+            "path": "plugins/llm-quota-board"
+          },
+          "engines": {
+            "dsh": ">=0.2.0-rc.2 || >=0.2.2-rc.3"
+          }
+        }
+      ]
+    }
+  ]
+}
