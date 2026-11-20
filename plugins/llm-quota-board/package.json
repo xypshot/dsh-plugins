@@ -1,5 +1,5 @@
 {
-  "name": "dsh-quota",
+  "name": "edu",
   "version": "0.1.0",
   "type": "module",
   "description": "Quota overview for every provider and model deployed in Settings -> Models",
