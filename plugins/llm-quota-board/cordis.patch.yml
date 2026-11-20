@@ -1,3 +1,3 @@
-- insert:
+﻿- insert:
     - id: llm-quota
-      name: 'dsh-llm-quota-board'
+      name: 'dsh-quota'

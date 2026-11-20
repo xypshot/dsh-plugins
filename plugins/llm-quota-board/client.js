@@ -1,5 +1,5 @@
 ﻿window.__ModuleLoader__.load({
-  id: 'dsh-llm-quota-board',
+  id: 'dsh-quota',
   factory(require) {
     const React = require('react')
     const h = React.createElement
