@@ -1,4 +1,4 @@
-﻿window.__ModuleLoader__.load({
+window.__ModuleLoader__.load({
   id: 'dsh-quota',
   factory(require) {
     const React = require('react')

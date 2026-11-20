@@ -15,7 +15,7 @@
   },
   "plugins": [
     {
-      "name": "dsh-llm-quota-board",
+      "name": "dsh-quota",
       "title": {
         "en": "Quota Overview",
         "zh": "额度总览"
@@ -45,11 +45,11 @@
       "versions": [
         {
           "version": "0.1.0",
-          "publishTimestamp": 1795188874,
+          "publishTimestamp": 1795188965,
           "source": {
             "type": "git",
             "url": "https://github.com/xypshot/dsh-plugins.git",
-            "commit": "3c383888d8e10cf335f6ce8ca2ff950a5e7c7e71",
+            "commit": "2a39195352132ac99197fce9e9da5a88e28cc12b",
             "path": "plugins/llm-quota-board"
           },
           "engines": {
