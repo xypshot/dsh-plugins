@@ -15,7 +15,7 @@
   },
   "plugins": [
     {
-      "name": "dsh-quota",
+      "name": "edu",
       "title": {
         "en": "Quota Overview",
         "zh": "额度总览"
@@ -45,11 +45,11 @@
       "versions": [
         {
           "version": "0.1.0",
-          "publishTimestamp": 1795188965,
+          "publishTimestamp": 1795189593,
           "source": {
             "type": "git",
             "url": "https://github.com/xypshot/dsh-plugins.git",
-            "commit": "2a39195352132ac99197fce9e9da5a88e28cc12b",
+            "commit": "288f8e20269fd50ca9a71de0baedf7defc56495b",
             "path": "plugins/llm-quota-board"
           },
           "engines": {
